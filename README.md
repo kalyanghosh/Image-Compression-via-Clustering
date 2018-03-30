@@ -8,7 +8,7 @@ This entire code base,images and explanation can be found in this repository
 ******************************************************************************************
 
 
-
+![BOX IMAGE](https://github.com/kalyanghosh/3D-Reconstruction-using-Single-View-Metrology/blob/master/Box_Image.jpg)
 
 
 
