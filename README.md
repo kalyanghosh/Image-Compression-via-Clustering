@@ -94,6 +94,9 @@ P=2
 
 
 We observe that as we increase the rate R, the distortion is monotonically decreasing. This happens because as we increase R keeping patch size constant, the number of clusters C increase.
+
+
+![Rate vs Distortion] (https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/Rate_vs_Distortion.png)
 Distortion is the measure of how close the quantized image is to the original image.
 As the more and more clusters are used to represent the same image, the reconstructed image goes closer and closer to the original image and hence the distortion is less.
 Basically we are using more number of values we are using to represent the same image, so the values will be more closer to the values of original image.
@@ -158,5 +161,10 @@ We then take a new test image.The original version of the test image is shown as
 
 We then run k means clustering on the test image with R=1,patch size P=2(same as in training process) and k=16(same as in training process) and replace the representation patch with values as received in the training process.
 
+*TEST_IMAGE:
+![Test Image] (https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/hunt.png)
+
+*VECTOR QUANTIZED TEST_IMAGE:
+![Test Image] (https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/quantized_hunt.png)
 *******************************************************************************************************
 
