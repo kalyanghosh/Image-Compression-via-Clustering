@@ -81,6 +81,7 @@ Thus, image compression has been achieved.
 
 Below is the plot of part of the image and its quantized version:
 P=2,R=1 C=16
+<br></br>
 <b>VECTOR QUANTIZED:</b>
 <br></br>
 ![NCSU IMAGE](https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/quantized_ncsu.png)
