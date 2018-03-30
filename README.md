@@ -161,10 +161,12 @@ We then take a new test image.The original version of the test image is shown as
 
 We then run k means clustering on the test image with R=1,patch size P=2(same as in training process) and k=16(same as in training process) and replace the representation patch with values as received in the training process.
 
-*TEST_IMAGE:
-![Test Image] (https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/hunt.png)
+<b>TEST_IMAGE:</b>
+<br></br>
+![Test Image](https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/hunt.png)
 
-*VECTOR QUANTIZED TEST_IMAGE:
-![Test Image] (https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/quantized_hunt.png)
+<b>VECTOR QUANTIZED TEST_IMAGE:</b>
+<br></br>
+![Test Image](https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/quantized_hunt.png)
 *******************************************************************************************************
 
