@@ -8,7 +8,7 @@ This entire code base,images and explanation can be found in this repository
 ******************************************************************************************
 
 
-![BOX IMAGE](https://github.com/kalyanghosh/3D-Reconstruction-using-Single-View-Metrology/blob/master/Box_Image.jpg)
+
 
 
 
@@ -25,6 +25,8 @@ I=imread('ncsu.jpg');
 figure(1),
 imshow(I);
 title('Original Input RGB Image');
+
+![NCSU IMAGE](https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/ncsu.jpg)
 
 *******************************************************************************************
 
@@ -79,6 +81,7 @@ Thus, image compression has been achieved.
 
 Below is the plot of part of the image and its quantized version:
 P=2,R=1 C=16
+![NCSU IMAGE](https://github.com/kalyanghosh/Image-Compression-via-Clustering/blob/master/quantized_ncsu.png)
 
 *******************************************************************************************
 
