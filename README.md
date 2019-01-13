@@ -1,7 +1,7 @@
 ******************************************************************************************
 VECTOR QUANTIZATION VIA K-MEANS CLUSTERING:
 
-This entire code base,images and explanation can be found in this repository
+This entire code base,images and explanation can be found in this repository.
 
 
 
